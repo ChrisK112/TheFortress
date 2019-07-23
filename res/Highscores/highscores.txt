@@ -1,0 +1,10 @@
+Jake   1000
+Maaz   1000
+Jim    980
+Max    200
+Tom    100
+Tom    100
+Jack   99
+Bob    89
+Wilson 87
+Kenny  50
